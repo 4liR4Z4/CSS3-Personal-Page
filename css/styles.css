@@ -1,0 +1,204 @@
+/* HTML Tag Selector */
+
+body {
+    background-color: #DFDFDE;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    width: 5%;
+    border-style: none;
+    border-top: 8px dotted #DFDFDE;
+}
+
+h1 {
+    margin-top: 40px auto 0 auto;
+}
+
+h2, h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* ID Selector */
+
+#bottom-container {
+    background-color: #5584AC;
+    padding-top: 32px;
+    padding-bottom: 25px;
+}
+
+#bottom-container a {
+    color: #DFDFDE;
+    text-decoration: none;
+}
+
+#bottom-container p {
+    margin: 20px auto 0 auto;
+}
+
+#bottom-container a:hover {
+    color: azure;
+    text-decoration: underline;
+}
+
+#contact-me {
+    margin: 80px auto 80px auto;
+}
+
+#top-container {
+    background-color: #5584AC;
+    padding-top: 108px;
+    padding-bottom: 357px;
+    position: relative;
+}
+
+#middle-container {
+    background-color: #DFDFDE;
+    padding: 50px auto 50px auto;
+}
+
+#skills {
+    background-color: #5584AC;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* Class Selector */
+
+.btn {
+    background-color: #5584AC;
+    color: #DFDFDE;
+    border-radius: 4%;
+    padding: 15px 20px 15px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: azure;
+    background-color: #205375;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 245px;
+    top: 65px;
+}
+
+.cloud-top-2 {
+    position: absolute;
+    left: 268px;
+    top: 18px;
+}
+
+.cloud-bottom {
+    position: absolute;
+    top: 218px;
+    left: 25px;
+}
+
+.cloud-bottom-2 {
+    position: absolute;
+    bottom: 250px;
+    right: 450px;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+.contact {
+    color: black;
+    font-weight: 500;
+    margin: 25px auto 60px auto;
+}
+
+.contact-heading {
+    color: #5584AC;
+    margin: 0 auto 40px auto;
+}
+
+.footer-link {
+    margin: 25px 0 25px 0;
+    padding: 0 10px 0 10px;
+}
+
+.main-heading {
+    color: #DFDFDE;
+    font-size: 3.5rem;
+    font-family: 'Allura', cursive;
+}
+
+.mountain {
+    position: absolute;
+    left: 45px;
+}
+
+.mountain-2 {
+    position: absolute;
+    right: 45px;
+}
+
+.title {
+    color: black;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.pm-pic {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.p-decorate {
+    text-decoration: underline;
+}
+
+.skill {
+    color: #DFDFDE;
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 0 auto 40px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.skill-1 {
+    margin: 25px auto 100px auto;
+}
+
+.skill-2 {
+    margin: 25px auto 0 auto;
+}
+
+.skill-row h3 {
+    color: azure;
+}
+
+.secondary-heading {
+    margin: 40px auto 60px auto;
+}
+
+.secondary-heading h2 {
+    color: #5584AC;
+    margin: 10px auto 15px auto;
+}
+
+.secondary-heading p {
+    color: black;
+    width: 28%;
+    font-weight: 500;
+    margin: 32px auto 0 auto;
+}
